@@ -3,3 +3,5 @@ pandas
 openpyxl
 geopy
 tqdm
+scikit-learn
+Jinja2
